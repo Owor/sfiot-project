@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  sfiot-chart:
+  - apiVersion: v2
+    created: "2020-09-29T17:54:29.498247426+08:00"
+    description: A simple chart for the iot project being worked on
+    digest: 813598a656b95b5ae38152a57aa6ce0960e8c91c86de4618b7e16226a8c87450
+    name: sfiot-chart
+    type: application
+    urls:
+    - https://github.com/Owor/sfiot-project.git/sfiot-chart-1.0.1.tgz
+    version: 1.0.1
+generated: "2020-09-29T17:54:29.495793152+08:00"
